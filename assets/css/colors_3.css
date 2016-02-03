@@ -162,7 +162,18 @@ blockquote {
 
 footer,
 footer .copynote {
-    background: rgba(45,55,54, .97); /* Dark color/Footer color */
+    adding: 100px 0;
+
+     width: 100%;
+
+    background: #222;
+
+    background:  url("../PPimages/BackgroundPP/woodTexutre.png") 50% 0 no-repeat scroll;
+    -webkit-background-size: cover;
+       -moz-background-size: cover;
+            background-size: cover;
+         -o-background-size: cover;
+}
 }
 
 
